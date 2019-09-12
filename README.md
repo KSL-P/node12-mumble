@@ -1,6 +1,13 @@
 
 Mumble client for Node.js
 =========================
+
+> **Fork disclaimer**  
+> This is my naive attempt to support Node 12 in node-mumble and it's dependencies.
+> I'm not experienced in v8 so I can't promise anything, but at least it *just works*.  
+>  
+> ~Fun Maker
+
 [![Build Status](https://travis-ci.org/Rantanen/node-mumble.svg?branch=master)](https://travis-ci.org/Rantanen/node-mumble)
 [![Code Climate](https://codeclimate.com/github/Rantanen/node-mumble/badges/gpa.svg)](https://codeclimate.com/github/Rantanen/node-mumble)
 

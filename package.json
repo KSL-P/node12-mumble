@@ -11,13 +11,13 @@
     "url": "http://github.com/Rantanen/node-mumble.git"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.12.0"
   },
   "dependencies": {
     "protobufjs": "^5.0.0",
-    "node-opus": "^0.2.2",
-    "celt": "^0.1.11",
-    "jitterbuffer": "^0.1.12"
+    "node-opus": "^0.3.2",
+    "celt": "github:funmaker/node12-celt",
+    "jitterbuffer": "github:funmaker/node12-jitterbuffer"
   },
   "devDependencies": {
     "chai": "^3.2.0",
