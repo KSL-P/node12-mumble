@@ -16,8 +16,8 @@
   "dependencies": {
     "protobufjs": "^5.0.0",
     "node-opus": "^0.3.2",
-    "celt": "github:funmaker/node12-celt",
-    "jitterbuffer": "github:funmaker/node12-jitterbuffer"
+    "celt": "github:KSL-P/node12-celt",
+    "jitterbuffer": "github:KSL-P/node12-jitterbuffer"
   },
   "devDependencies": {
     "chai": "^3.2.0",
